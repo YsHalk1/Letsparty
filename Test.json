@@ -1,0 +1,14 @@
+[
+  {
+    "id": "youtube",
+    "title": "YouTube",
+    "desc": "Смотреть вместе",
+    "image": "https://cdn.discordapp.com/attachments/726114079390826567/1476691908951539762/IMG_20260226_155206_299.jpg?ex=69a20c02&is=69a0ba82&hm=aafab256681576530e0019adbcf8b99d66261cbf458bb8bb082f683bf9b4528b&"
+  },
+  {
+    "id": "games",
+    "title": "Мини-игры",
+    "desc": "Уно, Мафия...",
+    "image": "https://cdn.discordapp.com/attachments/726114079390826567/1476691912638333041/Screenshot_20260218_194332_TikTok1.jpg?ex=69a20c03&is=69a0ba83&hm=823e6ea170f7328108be38ae1c0d518dba458371f1dea3d06692d6323e55fd4d&"
+  }
+]
