@@ -10,5 +10,11 @@
     "title": "Мини-игры",
     "desc": "Уно, Мафия...",
     "image": "https://raw.githubusercontent.com/YsHalk1/Letsparty/main/images/games_preview.jpg"
+  },
+  {
+    "id": "test",
+    "title": "В разработке",
+    "desc": "пися",
+    "image": "https://raw.githubusercontent.com/YsHalk1/Letsparty/main/images/games_preview.jpg"
   }
 ]
