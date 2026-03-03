@@ -6,10 +6,10 @@
     "image": "https://raw.githubusercontent.com/YsHalk1/Letsparty/main/YoutubeWhiteBack.webp"
   },
   {
-    "id": "games",
-    "title": "Мини-игры",
-    "desc": "Уно, Мафия...",
-    "image": "https://raw.githubusercontent.com/YsHalk1/Letsparty/main/images/games_preview.jpg"
+    "id": "hz",
+    "title": "Просто пустая иконка",
+    "desc": "...",
+    "image": "https://raw.githubusercontent.com/YsHalk1/Letsparty/main/games_preview.jpg"
   },
   {
     "id": "test",
